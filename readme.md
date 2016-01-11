@@ -1,2 +1,2 @@
-#This is a test repository just to chech the connection.
+#This is a test repository just to check the connection.
 
